@@ -1,0 +1,19 @@
+ORDER REJECTED
+Email address of client:jobby.etf@gmail.com
+
+<Order>
+	
+<emailAddress>
+	jobby.etf@gmail.com
+</emailAddress>
+	
+<items>
+	
+<Product [productId=1, productName=Krem banana]>
+	1
+</Product [productId=1, productName=Krem banana]>
+	
+</items>
+	
+</Order>
+	

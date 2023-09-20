@@ -1,0 +1,19 @@
+ORDER ACCEPTED
+Email address of client:dawda
+
+<Order>
+	
+<emailAddress>
+	dawda
+</emailAddress>
+	
+<items>
+	
+<Product [productId=2, productName=Twix]>
+	4
+</Product [productId=2, productName=Twix]>
+	
+</items>
+	
+</Order>
+	

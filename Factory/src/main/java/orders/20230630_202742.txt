@@ -1,0 +1,23 @@
+ORDER ACCEPTED
+Email address of client:awdawd
+
+<Order>
+	
+<emailAddress>
+	awdawd
+</emailAddress>
+	
+<items>
+	
+<Product [productId=1, productName=Krem banana]>
+	2
+</Product [productId=1, productName=Krem banana]>
+	
+<Product [productId=2, productName=Twix]>
+	2
+</Product [productId=2, productName=Twix]>
+	
+</items>
+	
+</Order>
+	

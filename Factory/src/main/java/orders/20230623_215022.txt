@@ -1,0 +1,27 @@
+ORDER ACCEPTED
+Email address of client:granagrana2001@gmail.com
+
+<Order>
+	
+<emailAddress>
+	granagrana2001@gmail.com
+</emailAddress>
+	
+<items>
+	
+<Product [productId=1, productName=Krem banana]>
+	2
+</Product [productId=1, productName=Krem banana]>
+	
+<Product [productId=2, productName=Twix]>
+	2
+</Product [productId=2, productName=Twix]>
+	
+<Product [productId=4, productName=Kiki bombone]>
+	2
+</Product [productId=4, productName=Kiki bombone]>
+	
+</items>
+	
+</Order>
+	

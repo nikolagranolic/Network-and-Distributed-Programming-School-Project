@@ -1,0 +1,31 @@
+ORDER ACCEPTED
+Email address of client:jobby.etf@gmail.com
+
+<Order>
+	
+<emailAddress>
+	jobby.etf@gmail.com
+</emailAddress>
+	
+<items>
+	
+<Product [productId=1, productName=Krem banana]>
+	2
+</Product [productId=1, productName=Krem banana]>
+	
+<Product [productId=2, productName=Twix]>
+	6
+</Product [productId=2, productName=Twix]>
+	
+<Product [productId=4, productName=Kiki bombone]>
+	2
+</Product [productId=4, productName=Kiki bombone]>
+	
+<Product [productId=5, productName=Haribo bombone]>
+	2
+</Product [productId=5, productName=Haribo bombone]>
+	
+</items>
+	
+</Order>
+	

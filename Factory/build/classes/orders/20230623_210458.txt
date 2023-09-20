@@ -1,0 +1,23 @@
+ORDER REJECTED
+Email address of client:dwa
+
+<Order>
+	
+<emailAddress>
+	dwa
+</emailAddress>
+	
+<items>
+	
+<Product [productId=1, productName=Krem banana]>
+	2
+</Product [productId=1, productName=Krem banana]>
+	
+<Product [productId=5, productName=Haribo bombone]>
+	2
+</Product [productId=5, productName=Haribo bombone]>
+	
+</items>
+	
+</Order>
+	

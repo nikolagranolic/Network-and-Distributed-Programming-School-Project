@@ -1,0 +1,23 @@
+ORDER REJECTED
+Email address of client:test@mail.com
+
+<Order>
+	
+<emailAddress>
+	test@mail.com
+</emailAddress>
+	
+<items>
+	
+<Product [productId=1, productName=Krem banana]>
+	2
+</Product [productId=1, productName=Krem banana]>
+	
+<Product [productId=5, productName=Haribo bombone]>
+	6
+</Product [productId=5, productName=Haribo bombone]>
+	
+</items>
+	
+</Order>
+	

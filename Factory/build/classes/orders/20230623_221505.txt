@@ -1,0 +1,27 @@
+ORDER ACCEPTED
+Email address of client:jobby.etf@gmail.com
+
+<Order>
+	
+<emailAddress>
+	jobby.etf@gmail.com
+</emailAddress>
+	
+<items>
+	
+<Product [productId=3, productName=Snickers]>
+	5
+</Product [productId=3, productName=Snickers]>
+	
+<Product [productId=4, productName=Kiki bombone]>
+	5
+</Product [productId=4, productName=Kiki bombone]>
+	
+<Product [productId=6, productName=Kinder Joy]>
+	5
+</Product [productId=6, productName=Kinder Joy]>
+	
+</items>
+	
+</Order>
+	

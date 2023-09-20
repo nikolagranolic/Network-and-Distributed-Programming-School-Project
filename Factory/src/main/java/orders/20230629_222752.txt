@@ -1,0 +1,27 @@
+ORDER ACCEPTED
+Email address of client:nikolagranolic01@gmail.com
+
+<Order>
+	
+<emailAddress>
+	nikolagranolic01@gmail.com
+</emailAddress>
+	
+<items>
+	
+<Product [productId=1, productName=Krem banana]>
+	1
+</Product [productId=1, productName=Krem banana]>
+	
+<Product [productId=2, productName=Twix]>
+	8
+</Product [productId=2, productName=Twix]>
+	
+<Product [productId=5, productName=Haribo bombone]>
+	2
+</Product [productId=5, productName=Haribo bombone]>
+	
+</items>
+	
+</Order>
+	

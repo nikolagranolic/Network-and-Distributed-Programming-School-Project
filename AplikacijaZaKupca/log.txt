@@ -1,0 +1,2 @@
+Jun 30, 2023 8:27:01 PM net.etfbl.helper.PromotionalMessageThread run
+INFO: Joined multicast group224.0.0.11
